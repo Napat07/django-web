@@ -1,0 +1,17 @@
+body{
+    background-color: bisque;
+}
+
+body *{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1,h2,h3,h4,h5{
+    font-weight: normal;
+    margin: 0;
+}
+
+a,a:hover,a:visited{
+    color: blue;
+    text-decoration: none;
+}
